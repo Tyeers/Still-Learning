@@ -1,0 +1,89 @@
+.lungmen {
+    padding-top: 100px;
+    margin: 10px 650px;
+}
+
+.title {
+    font-family: 'Arial Narrow';
+    font-size: 25px;
+}
+
+.author {
+    font-size: 25px;
+}
+
+.field {
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+
+.paragraph {
+    font-size: 20px;
+}
+
+.title2 {
+    font-size: 35px;
+}
+
+.active {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bg {
+    background-color: aquamarine;
+    padding: 10px 10px;
+}
+
+.troll {
+margin-bottom: 0px;
+}
+
+footer {
+    display: block;
+}
+
+.icon-bar {
+    font-family: sans-serif;
+}
+
+.bar {
+    width: 25%;
+    background-color: azure;
+    border-radius: 15px;
+}
+
+.bar-container {
+    width: 100%;
+    background-color:lawngreen;
+    color: white;
+    margin-top: 30px;
+    padding: 1%;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: dimgray;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+
